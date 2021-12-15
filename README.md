@@ -16,3 +16,6 @@ multiplication done!
 
 BUG FIXED!!! 
 I had noticed a bug that was preventing multiplication of some matrices. It's fixed now. 
+
+Calc_history
+Introducing a new feature that will help user to find its previous history across all four operations.
