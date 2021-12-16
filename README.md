@@ -19,3 +19,6 @@ I had noticed a bug that was preventing multiplication of some matrices. It's fi
 
 Calc_history
 Introducing a new feature that will help user to find its previous history across all four operations.
+
+BUG FIXED!!!
+There was this bug that was preventing the code to run forever. It's fixed now.
