@@ -22,3 +22,6 @@ Introducing a new feature that will help user to find its previous history acros
 
 BUG FIXED!!!
 There was this bug that was preventing the code to run forever. It's fixed now.
+
+BUG FIXED!!!
+After last update the part that stores the calculation for multiplication was giving a problem. It's is fixed now.
