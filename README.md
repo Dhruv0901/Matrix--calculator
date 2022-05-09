@@ -1,4 +1,4 @@
-# Matrics_calculator
+# Matrix_calculator
 This is matrix calculator, a python based project/repo where you can make a matrix and then perform addition, subtraction and scalar multiplication correctly.But when it comes to 
 multiplication it can only calculate if a matrix has 4 or less than four column/rows.
 This is an old code so it is made out of functions But now i am working to make it based on classes.
